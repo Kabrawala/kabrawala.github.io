@@ -25,6 +25,11 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
+hr { 
+  border : 0;
+  height: 1px; 
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #067ded, rgba(0, 0, 0, 0));
+}
 
 /*--------------------------------------------------------------
 # Back to top button
